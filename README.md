@@ -14,7 +14,7 @@
 | **Zeus** | Capital Architect 资本架构官 | 估值框架 + Pitch Deck (VC-grade, agent-authored) |
 | **Nova** | Asset Manager 资产管理官 | RWA 资产包封装 + ZWF-20 数据标准 |
 | **Tristan** | Tech Architect 技术架构官 | 基础设施运维 + PoPB 协议规格 |
-| **Momo** | Store Bridge 门店桥接官 | 物理层数据采集 + Hermes 框架 |
+| **Momo** | Store Operations Officer 门店运营官 | ZWISERFIT组织系统·千城万店可扩展 | Hermes 框架 |
 | **Stella** | Security Auditor 安全审计官 | 独立审计权 + Agent 治理合规 |
 | **Ethan** | Trust Verifier 可信验证官 | 哈希存证 + 共识检查 |
 | **Baron** | Brand Lead 品牌增长官 | GitHub 叙事 + 品类定位 |
