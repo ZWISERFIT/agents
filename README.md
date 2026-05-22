@@ -10,15 +10,15 @@
 
 | Agent | Role | Core Function |
 |-------|------|---------------|
-| **Shuyu** | 总指挥 Orchestrator | 战略调度 + 9-Agent 协同 |
-| **Zeus** | 资本架构官 Capital Architect | 估值框架 + Pitch Deck (VC-grade, agent-authored) |
-| **Nova** | 资产管理官 Asset Manager | RWA 资产包封装 + ZWF-20 数据标准 |
-| **Tristan** | 技术架构官 Tech Architect | 基础设施运维 + PoPB 协议规格 |
-| **Momo** | 门店桥接官 Store Bridge | 物理层数据采集 + Hermes 框架 |
-| **Stella** | 安全审计官 Security Auditor | 独立审计权 + Agent 治理合规 |
-| **Ethan** | 可信验证官 Trust Verifier | 哈希存证 + 共识检查 |
-| **Baron** | 品牌增长官 Brand Lead | GitHub 叙事 + 品类定位 |
-| **Luna** | 社群运营官 Community Lead | Discord/Twitter + 开发者社区 |
+| **Shuyu** | Orchestrator 总指挥 | 战略调度 + 9-Agent 协同 |
+| **Zeus** | Capital Architect 资本架构官 | 估值框架 + Pitch Deck (VC-grade, agent-authored) |
+| **Nova** | Asset Manager 资产管理官 | RWA 资产包封装 + ZWF-20 数据标准 |
+| **Tristan** | Tech Architect 技术架构官 | 基础设施运维 + PoPB 协议规格 |
+| **Momo** | Store Bridge 门店桥接官 | 物理层数据采集 + Hermes 框架 |
+| **Stella** | Security Auditor 安全审计官 | 独立审计权 + Agent 治理合规 |
+| **Ethan** | Trust Verifier 可信验证官 | 哈希存证 + 共识检查 |
+| **Baron** | Brand Lead 品牌增长官 | GitHub 叙事 + 品类定位 |
+| **Luna** | Community Lead 社群运营官 | Discord/Twitter + 开发者社区 |
 
 ## Architecture
 
