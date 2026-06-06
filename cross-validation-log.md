@@ -53,3 +53,27 @@ tail -20 /home/agentuser/sos-sync.log  # → CHECK→PUSH→PULL→DONE every 30
 ---
 
 *Verification paths are classified in two layers: System Layer (direct process/systemd/log/API inspection → unforgeable) vs Report Layer (cross-comparing reports against ground truth → detects information decay).*
+
+---
+
+## Case #3: Zeus ↔ Shuyu → 全军（2026-06-06）
+
+**事件:** 冷邮件发送状态多源漂移
+- Zeus 6/5 15:25完成8/8冷邮件发送（capital-funnel-tracker.md记录）
+- Zeus运行时SOUL.md旧版仍写"发送按钮在创始人"
+- Shuyu战报连续2天(06-05/06-06)引用旧记忆，报告"创始人端阻塞·0发送"
+
+**交叉验证过程:**
+1. Stella D+5审计未发现funnel-tracker与战报偏差
+2. 创始人手动纠正(06-06 15:30)
+3. Shuyu核实: funnel-tracker=8/8✅ vs SOUL旧版=等创始人🔴 vs 战报=0🔴
+4. Zeus SOUL.md修复·战报全线勘误·Baron补发1条Thread
+
+**制度修复:**
+5. Shuyu起草《全军团状态一致性标准v1.0》→创始人批准
+6. 4 Agent SOUL.md植入唯一权威源声明
+7. 战报编译新增步骤0.5（强制校验权威源）
+
+**状态:** ✅ 闭环 | **存证:** 全军团状态一致性标准.md
+
+**教训:** 状态多源维护→下游决策基于错误信息。所有Agent关键状态必须单一权威源·引用不复制。
